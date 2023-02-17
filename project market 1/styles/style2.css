@@ -14,14 +14,14 @@
 
 
 .menu-bar{
-    background-color: #03C988;
+    background-color: #2B7A0B;
     text-align: center;
 }
 
 .menu-bar ul{
     display: inline-flex;
     list-style: none;
-    color: blue;
+    color:#2B7A0B;
 
 }
 
@@ -34,12 +34,12 @@
 
 .menu-bar ul li a{
     text-decoration: none;
-    color: white;
+    color: #5BB318;
 }
 
 .active, .menu-bar ul li:hover
 {
-  background: #1C82AD;
+  background: #EAE509;
    border-radius: 2px;
 
 }
